@@ -1,16 +1,12 @@
-<div align="center">
-
 # Hi 👋 I'm Gehad Ashraf
 ### Software Engineer from Egypt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-ashraf-2bbbba307/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggehad894@gmail.com)
 
-</div>
-
 ---
 
-##  About Me
+## About Me
 
 - 🎓 Third-year **Computer & Information** student at **Suez University**
 - 💻 Passionate about **Backend Development** & scalable systems
@@ -26,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Backend Development**
@@ -44,8 +40,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gehad10999&color=1A5F9E&style=for-the-badge" alt="Profile Views" />
-</div>
